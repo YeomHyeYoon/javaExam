@@ -1,4 +1,4 @@
-package java16;
+package java16.exam11;
 
 /**
  * @author yuni5
